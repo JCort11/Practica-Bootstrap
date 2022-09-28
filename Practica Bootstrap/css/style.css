@@ -1,0 +1,86 @@
+body{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    
+}
+
+.log{
+    height: 100px;
+}
+
+.nav-bar{
+    background-color: white (166, 199, 228, 0.521);
+    margin-bottom: 20px;
+    border: rgba(0, 0, 0, 0.486) 2px solid;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
+.nav-item:hover{
+    background-color: rgba(0, 0, 255, 0.178);
+    border-radius: 10px;
+}
+
+.dropdown-item:hover{
+    background-color: rgba(0, 0, 255, 0.178);
+    border-radius: 10px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Merriweather',serif;
+    font-size: 18px;
+}
+
+h1{
+    font-family: 'Dancing Script',serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+
+
+.top-text h2{
+    font-size: 20px;
+}
+
+.car{
+    margin-top: 50px;
+    width: 400px;
+    height: 350px;
+    position: relative;
+    margin-left: 750px;
+}
+
+.ft{
+    margin-top: 300px;
+}
+
+.p1{
+    text-align: justify;
+    margin-left: 70px;
+    font-family: 'Merriweather';
+}
+
+.lend{
+    font-family: 'Merriweather';
+}
+
+.buy{
+    font-family: 'Merriweather';
+}
+
+.caards{
+    height: 100px;
+    width: 1200px;
+    margin-left: 350px;
+}
+
+footer{
+    margin-top: 1500px;
+}
